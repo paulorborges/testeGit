@@ -1,5 +1,5 @@
 <?php
-	echo "Heloo Word!";
+	echo "Olá mundo!";
 	echo "Teste de alteração github";
-	echo "Teste de conflito entre versões";
+	echo "Conflito ajustado";
 ?>
